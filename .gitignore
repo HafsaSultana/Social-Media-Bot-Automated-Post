@@ -1,0 +1,39 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Compiled source
+*.mo
+*.pyc
+*.class
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+#dataset
+*.pdf
+*.txt
+*.jpg
+*.png
+*.json
+
+# library files
+*xml
+*env
+*csv
+*xlsx
+*pdf
+*mp4

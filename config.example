@@ -1,0 +1,6 @@
+{
+    "facebook_page_access_token": "your-facebook-access-token",
+    "linkedin_access_token": "your-linkedin-access-token",
+    "facebook_csv_path": "your-facebook-content-csv-path",
+    "linkedin_csv_path": "your-linkedin-content-csv-path"
+}
